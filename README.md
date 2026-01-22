@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock-Market-Simulator](https://github.com/harshkulkar/Stock-market-simulator.git)
 
-- 🌱 I’m currently learning**React**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 Working as a full stack developer at novelvista solutions.
 
