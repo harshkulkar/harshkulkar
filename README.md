@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Stock-Market-Simulator](https://github.com/harshkulkar/Stock-market-simulator.git)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning**React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshkulkar/Portfolio.git](https://github.com/harshkulkar/Portfolio.git)
+- 👨‍💻 Working as a full stack developer at novelvista solutions.
 
 - 💬 Ask me about **Java, MySQl, Spring boot and Web Technologies**
 
